@@ -21,7 +21,7 @@ h1 {
     font-style: oblique;
 }
 a:hover{
-    color: rgb(120, 105, 255);
+    color: rgba(231, 10, 10, 0.514);
     margin: 5px;
     padding: 20px;
   }
