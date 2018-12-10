@@ -7,6 +7,7 @@
 * CSS
 * CODE
 * Markdown
+Click here for more info: https://uwizeyeh.github.io/portfolio/
 ##### License
 Copyright (c) 2018 
 
