@@ -7,7 +7,10 @@
 * CSS
 * CODE
 * Markdown
-##### Click here for more info: https://uwizeyeh.github.io/portfolio/
-##### License
+##### Contact
+* Phone number:0782356570
+* Email:uwizeyimanahulde1@gmail.com
+###### Click here for more info: https://uwizeyeh.github.io/portfolio/
+####### License
 Copyright (c) 2018 
 
